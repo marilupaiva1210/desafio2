@@ -1,4 +1,6 @@
-package classes;
+package classes.Exercicio1.Exercicio3;
+
+import classes.Exercicio1.Exercicio2.Porta2;
 
 public class Casa3 {
 
